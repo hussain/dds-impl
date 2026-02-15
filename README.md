@@ -4,7 +4,7 @@ Python implementation accompanying the paper:
 
 > **Deterministic Domain Semantics: A Formal Layer for Closing Open Worlds**
 > Hussain Hammad. *Preprint.*
-> DOI: [10.5281/zenodo.18648558](https://doi.org/10.5281/zenodo.18648558)
+> DOI: [10.5281/zenodo.18648557](https://doi.org/10.5281/zenodo.18648557)
 
 ## Overview
 
