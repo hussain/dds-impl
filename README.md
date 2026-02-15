@@ -52,6 +52,10 @@ python -m case_studies.visitor_access.run
 python -m case_studies.prescription.run
 ```
 
+## Citation
+
+This implementation is archived at DOI: [10.5281/zenodo.18648667](https://doi.org/10.5281/zenodo.18648667)
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
