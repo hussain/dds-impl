@@ -1,0 +1,11 @@
+[project]
+name = "dds-reference"
+version = "0.1.0"
+description = "Reference implementation of Deterministic Domain Semantics (DDS)"
+requires-python = ">=3.11"
+
+[project.optional-dependencies]
+shacl = ["rdflib>=7.0", "pyshacl>=0.26"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
